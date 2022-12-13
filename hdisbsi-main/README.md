@@ -16,7 +16,12 @@ Só joga na máquina e deixar instalar
 • desativa Ipv6
 
 • instala recursos e o script
-```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/ssh-plus)
 
 ```
+apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Pro-ssh; chmod 777 Pro-ssh; ./Pro-ssh
+
+```
+
+
+
+#! apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/ssh-plus) #
