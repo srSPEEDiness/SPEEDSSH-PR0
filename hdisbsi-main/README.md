@@ -24,4 +24,3 @@ apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Pro-ssh; chmod 
 
 
 
-#! apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/ssh-plus) #
