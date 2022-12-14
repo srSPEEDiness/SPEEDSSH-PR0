@@ -1,6 +1,6 @@
 #!/bin/bash
 #--------------------------
-# SCRIPT SSH-PLUS
+# SCRIPT KEY PRO
 # CANAL TELEGRAM: @srSPEEDiness
 #--------------------------
 clear
@@ -86,14 +86,7 @@ echo -e "\n\033[1;36mVERIFICANDO... \033[1;37m $_key_\033[0m" ; rm $_Ink/list > 
 sleep 3s
 echo -e "\n\033[1;32mKEY VALIDA!\033[1;32m"
 sleep 3s
-#!/bin/bash
 clear
-#--------------------------
-# SCRIPT SPEEDSSH-PR0
-# CANAL TELEGRAM: @srSPEEDiness
-#--------------------------
-
-# - Cores
 RED='\033[1;31m'
 YELLOW='\033[1;33m'
 SCOLOR='\033[0m'
