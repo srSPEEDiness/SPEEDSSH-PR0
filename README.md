@@ -1,14 +1,11 @@
-# BEM VINDO 🖕
+# ✩░▒▓▆▅▃▂▁𝐒𝐏𝐄𝐄𝐃𝐂𝐄𝐋𝐋▁▂▃▅▆▓▒░✩
 
-# SPEEDSSH-PR0
+<p><b>⚠ SISTEMA SUPORTADO: (UBUNTU 18!).⚠</br>
 
-# @srSPEEDiness
-
-*PROJETO EM ANDAMENTO...
-
+# —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)—
+![Screenshot_01](https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/Install/banner.jpg)
 
 # Modo de instalação
-# 👇👽👍
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
@@ -17,8 +14,12 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 
+# SOLICITE KEY (TELEGRAM): 
+
+<a href="https://t.me/srSPEEDiness" style="font-size:80dp"> @srSPEEDiness </a>
+
+# SPEEDSSH PR0
+
 ```
 apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Pro-ssh; chmod 777 Pro-ssh; ./Pro-ssh
-
 ```
-
