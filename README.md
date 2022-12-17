@@ -1,9 +1,13 @@
-# ✩░▒▓▆▅▃▂▁𝐒𝐏𝐄𝐄𝐃𝐂𝐄𝐋𝐋▁▂▃▅▆▓▒░✩
-
-<p><b>⚠ SISTEMA SUPORTADO: (UBUNTU 18!).⚠</br>
-
-# —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)—
-![Screenshot_01](https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/Install/banner.jpg)
+<p align="center">
+  <img src="https://github.com/srSPEEDiness/SPEEDSSH-PR0/blob/main/icone.jpg" height="400px"/>
+</p>
+<h2 align="center">✩░▒▓▆▅▃▂▁<b>VELOCIDADE E CONEXÃO</b>▁▂▃▅▆▓▒░✩</h2> 
+<br>
+<h1 align="center"> —(••÷[ 𝐈𝐌𝐀𝐆𝐄𝐌 ]÷••)— </h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PR0/main/install/banner.jpg" height="600px"/>
+</p>
+<p align="center"><b>⚠ SISTEMA SUPORTADO: (UBUNTU 18!).⚠</br>
 
 # Modo de instalação
 Só joga na máquina e deixar instalar
@@ -14,12 +18,23 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 
-# SOLICITE KEY (TELEGRAM): 
+# SOLICITE KEY: 
 
-<a href="https://t.me/srSPEEDiness" style="font-size:80dp"> @srSPEEDiness </a>
+[![Join Telegram Chat](https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=Telegram)](https://t.me/srSPEEDiness)
+
+[![Join WhatsApp Chat](https://img.shields.io/badge/Join-WhatsApp%20Group-bl.svg?logo=WhatsApp)](https://wa.me/5521976102205)
 
 # SPEEDSSH PR0
 
 ```
 apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/Pro-ssh; chmod 777 Pro-ssh; ./Pro-ssh
 ```
+
+# Acessa Root
+
+```
+wget https://raw.githubusercontent.com/srSPEEDiness/SPEEDSSH-PLUS/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+```
+
+<h2 align="center"><b>PRODUÇÃO<a href="https://t.me/srSPEEDiness"> SR SPEEDINESS</h3></b></a>
+</br>
