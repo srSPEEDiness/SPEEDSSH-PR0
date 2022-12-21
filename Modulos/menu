@@ -491,16 +491,16 @@ case "$x" in
    22)
    menu2
    ;;
-   c)
+   c | C)
    gltunnel
    ;;
-   b)
+   b | B)
    clear
    menub
    exit;
    ;;
-   v)
-   v2raymanager
+   v | V)
+   bash <(curl -s -L https://raw.githubusercontent.com/srSPEEDiness/V2SPEED/install.sh)
    ;;
    *)
    echo -e "\n\033[1;31mOpcao invalida !\033[0m"
