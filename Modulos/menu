@@ -500,7 +500,7 @@ case "$x" in
    exit;
    ;;
    v | V)
-   bash <(curl -s -L https://raw.githubusercontent.com/srSPEEDiness/V2SPEED/install.sh)
+   bash <(curl -s -L https://raw.githubusercontent.com/srSPEEDiness/V2SPEED/main/install.sh)
    ;;
    *)
    echo -e "\n\033[1;31mOpcao invalida !\033[0m"
